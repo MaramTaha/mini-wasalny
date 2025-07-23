@@ -1,0 +1,27 @@
+USER
+John,john@email.com,1234
+CITIES
+Paris 10 20
+Berlin 30 40
+EDGES
+Paris Berlin 500 0
+END
+USER
+Maram,maram@email.com,1234
+CITIES
+EDGES
+END
+USER
+Sara,sara@email.com,1234
+CITIES
+cairo 40 60
+giza 60 90
+EDGES
+cairo giza 700 0
+END
+USER
+Maryam,maryam@gmail.com,1234
+CITIES
+cairo 40 60
+EDGES
+END

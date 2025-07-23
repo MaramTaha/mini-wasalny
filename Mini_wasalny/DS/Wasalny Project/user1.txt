@@ -1,0 +1,15 @@
+USER
+Sara,sara@gmail,1234
+CITIES
+Fayom 9 9
+Cairo 4 4
+Giza 7 7
+Sohag 6 6
+Alex 1 1
+EDGES
+Fayom Giza 300 0
+Cairo Alex 300 0
+Cairo Giza 200 1
+Giza Sohag 500 0
+Sohag Alex 450 0
+END
